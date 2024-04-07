@@ -1,0 +1,44 @@
+﻿Created By AccessData® FTK® Imager 4.1.1.1 
+
+Case Information: 
+Acquired using: ADI4.1.1.1
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner: A.Eluwa
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\TBSPC_Kunbi\Desktop\Acquisition:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 261
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 4,194,304
+[Physical Drive Information]
+ Drive Model: Microsoft Virtual Disk
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 2048 MB
+ Sector count:    4194304
+[Computed Hashes]
+ MD5 checksum:    73f3fb91d20ffc6562d33edc399b12b0
+ SHA1 checksum:   00700ba27b9a0192c4875326722324a217f75a55
+
+Image Information:
+ Acquisition started:   Sat Feb 26 09:31:16 2022
+ Acquisition finished:  Sat Feb 26 09:31:22 2022
+ Segment list:
+  C:\Users\TBSPC_Kunbi\Desktop\Acquisition.E01
+
+Image Verification Results:
+ Verification started:  Sat Feb 26 09:31:22 2022
+ Verification finished: Sat Feb 26 09:31:30 2022
+ MD5 checksum:    73f3fb91d20ffc6562d33edc399b12b0 : verified
+ SHA1 checksum:   00700ba27b9a0192c4875326722324a217f75a55 : verified
